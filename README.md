@@ -1,2 +1,1 @@
-# Betxpi
-Peer to Peer Sports Betting for Pi network Pioneers
+betxPi is a peer-2-peer sports betting that shifts from the tradition betting models that always involves bookmakers. We are empowering users ( Pi network Pioneers )  to bet on their own terms, competing directly against each other on present and future events and sports games
